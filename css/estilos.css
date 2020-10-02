@@ -36,7 +36,7 @@ nav .logo{
     float: left;    
 }
 nav .logo img{
-    height: 200px;
+    height: 150px;
     transition: .5s;
 }
 nav.black .logo img{
